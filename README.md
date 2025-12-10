@@ -11,3 +11,10 @@
 
 
 **3. Look 3:**
+
+![image alt](https://github.com/Nyakallo06/MyFirstCollection/blob/main/look3.jpg)
+
+
+**4. Look 1 & 3:**
+
+![image alt]()
