@@ -17,4 +17,4 @@
 
 **4. Look 1 & 3:**
 
-![image alt]()
+![image alt](https://github.com/Nyakallo06/MyFirstCollection/blob/main/look1%263.jpg)
