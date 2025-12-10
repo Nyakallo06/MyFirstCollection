@@ -6,4 +6,8 @@
 
 
 **2. Look 2:**
-![image alt](https://github.com/Nyakallo06/MyFirstCollection/blob/main/look1.jpg)
+
+![image alt](https://github.com/Nyakallo06/MyFirstCollection/blob/main/look2.jpg)
+
+
+**3. Look 3:**
